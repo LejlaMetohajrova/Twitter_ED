@@ -8,8 +8,8 @@ grep -v -P 'GT:\t-1' Mena_Collection.csv > mena_gt.csv
 grep -v -P 'GT:\t-1' Microposts2014_train.csv > micro_gt.csv
 ```
 
-The number of mentions per dataset
-----------------------------------
+#mentions | dataset
+-----------------------|--------
 3147 | micro_gt.csv
 1006 | brian_gt.csv
 423 | mena_gt.csv
@@ -40,7 +40,7 @@ tail -n 84 mena_gt_shuf.csv | tail -n 42 > test/mena_test.csv
 ```
 
 Dataset | Train (80%) | Val (10%) | Test (10%)
-----------------------------------
+--------|-------------|-----------|-----------
 micro | 2517 | 315 | 315
 brian | 806 | 100 | 100
 mena | 339 | 42 | 42
@@ -77,8 +77,13 @@ python3 gen_train_val_test.py -conll_file Mena_Collection.conll \
 The number of tweets per dataset:
 
 Dataset | Train | Val | Test
-----------------------------
+--------|-------|-----|-----
 micro | 1331 | 283 | 287
 brian | 575 | 98 | 95
 mena | 152 | 37 | 39
 total | 2058 | 418 | 421
+
+Original twitter data come from: \
+[1] Locke, B. and Martin, J. (2009). Named entity recognition: Adapting to microblogging. Senior Thesis, University of Colorado. \
+[2] Habib, M. B. and van Keulen, M. (2012). Unsupervised improvement of named entity extraction in short informal context using disambiguation clues. In Proceedings of the Workshop on Semantic Web and Information Extraction (SWAIE 2012), pages 1–10. \
+[3] A. E. Cano Basave, G. Rizzo, A. Varga, M. Rowe, M. Stankovic, and A.-S. Dadzie (2014). Making Sense of Microposts (#Microposts2014) Named Entity Extraction & Linking Challenge. In Proceedings of #Microposts2014, pages 54–60, 2014.
