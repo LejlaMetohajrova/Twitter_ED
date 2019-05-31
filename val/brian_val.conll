@@ -5,11 +5,11 @@ issue
 in
 bushfire
 rebuild
-Brumby	B	Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-John	B	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-Brumby	I	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	B	Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+John	B	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	I	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
 says
-Victoria	B	Victoria	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victoria	B	Victoria	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 will
 do
 whatever
@@ -29,7 +29,7 @@ warned
 of
 bushfire
 scammers
-Australia	B	Australia	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australia	B	Australia	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 s
 competition
 watchdog
@@ -52,17 +52,17 @@ tribute
 to
 bushfire
 victims
-US	B	US	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+US	B	US	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 stars
-Ginnifer	B	Ginnifer Goodwin	innifer_Goodwin	http://en.wikipedia.org/wiki/Ginnifer_Goodwin	000	000
-Goodwin	I	Ginnifer Goodwin	innifer_Goodwin	http://en.wikipedia.org/wiki/Ginnifer_Goodwin	000	000
+Ginnifer	B	Ginnifer Goodwin	Ginnifer_Goodwin	http://en.wikipedia.org/wiki/Ginnifer_Goodwin	000	000
+Goodwin	I	Ginnifer Goodwin	Ginnifer_Goodwin	http://en.wikipedia.org/wiki/Ginnifer_Goodwin	000	000
 and
-Justin	B	Justin Long	ustin_Long	http://en.wikipedia.org/wiki/Justin_Long	000	000
-Long	I	Justin Long	ustin_Long	http://en.wikipedia.org/wiki/Justin_Long	000	000
+Justin	B	Justin Long	Justin_Long	http://en.wikipedia.org/wiki/Justin_Long	000	000
+Long	I	Justin Long	Justin_Long	http://en.wikipedia.org/wiki/Justin_Long	000	000
 paid
 tribute
 to
-Victoria	B	Victoria	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victoria	B	Victoria	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 s
 bush
 http
@@ -77,11 +77,11 @@ issue
 in
 bushfire
 rebuild
-Brumby	B	Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-John	B	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-Brumby	I	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	B	Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+John	B	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	I	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
 says
-Victoria	B	Victoria	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victoria	B	Victoria	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 will
 do
 whatever
@@ -102,11 +102,11 @@ issue
 in
 bushfire
 rebuild
-Brumby	B	Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-John	B	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
-Brumby	I	John Brumby	ohn_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	B	Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+John	B	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
+Brumby	I	John Brumby	John_Brumby	http://en.wikipedia.org/wiki/John_Brumby	000	000
 says
-Victoria	B	Victoria	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victoria	B	Victoria	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 will
 do
 whatever
@@ -122,7 +122,7 @@ c3urby
 
 -DOCSTART- (1000000000030
 IN
-BSB	B	BSB	ackstreet_Boys	http://en.wikipedia.org/wiki/Backstreet_Boys	000	000
+BSB	B	BSB	Backstreet_Boys	http://en.wikipedia.org/wiki/Backstreet_Boys	000	000
 CONCERT
 http
 yfrog
@@ -133,19 +133,19 @@ com
 simonhartmann
 you
 want
-gnome	B	gnome-do	NOME_Do	http://en.wikipedia.org/wiki/GNOME_Do	000	000
-do	I	gnome-do	NOME_Do	http://en.wikipedia.org/wiki/GNOME_Do	000	000
-picasa	B	picasa	icasa	http://en.wikipedia.org/wiki/Picasa	000	000
+gnome	B	gnome-do	GNOME_Do	http://en.wikipedia.org/wiki/GNOME_Do	000	000
+do	I	gnome-do	GNOME_Do	http://en.wikipedia.org/wiki/GNOME_Do	000	000
+picasa	B	picasa	Picasa	http://en.wikipedia.org/wiki/Picasa	000	000
 and
 either
-amarok	B	amarok	marok_(software)	http://en.wikipedia.org/wiki/Amarok_(software)	000	000
+amarok	B	amarok	Amarok_(software)	http://en.wikipedia.org/wiki/Amarok_(software)	000	000
 or
-songbird	B	songbird	ongbird_(software)	http://en.wikipedia.org/wiki/Songbird_(software)	000	000
+songbird	B	songbird	Songbird_(software)	http://en.wikipedia.org/wiki/Songbird_(software)	000	000
 for
 music
 
 -DOCSTART- (1000000000041
-Australia	B	Australia	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australia	B	Australia	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 declares
 bushfire
 disaster
@@ -153,38 +153,38 @@ a
 crime
 scene
 Source
-Reuters	B	Reuters	euters	http://en.wikipedia.org/wiki/Reuters	000	000
+Reuters	B	Reuters	Reuters	http://en.wikipedia.org/wiki/Reuters	000	000
 By
-Mark	B	Mark Bendeich	ydney	http://en.wikipedia.org/wiki/Sydney	000	000
-Bendeich	I	Mark Bendeich	ydney	http://en.wikipedia.org/wiki/Sydney	000	000
-SYDNEY	B	SYDNEY	ydney	http://en.wikipedia.org/wiki/Sydney	000	000
+Mark	B	Mark Bendeich	Sydney	http://en.wikipedia.org/wiki/Sydney	000	000
+Bendeich	I	Mark Bendeich	Sydney	http://en.wikipedia.org/wiki/Sydney	000	000
+SYDNEY	B	SYDNEY	Sydney	http://en.wikipedia.org/wiki/Sydney	000	000
 Feb
 10
-Reuters	B	Reuters	euters	http://en.wikipedia.org/wiki/Reuters	000	000
+Reuters	B	Reuters	Reuters	http://en.wikipedia.org/wiki/Reuters	000	000
 http
 tinyurl
 com
 amhpvb
 
 -DOCSTART- (1000000000055
-Intel	B	Intel	ntel_Corporation	http://en.wikipedia.org/wiki/Intel_Corporation	000	000
+Intel	B	Intel	Intel_Corporation	http://en.wikipedia.org/wiki/Intel_Corporation	000	000
 to
 invest
 7
 billion
 in
-US	B	US	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+US	B	US	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 as
 recession
 deepens
-Reuters	B	Reuters	euters	http://en.wikipedia.org/wiki/Reuters	000	000
+Reuters	B	Reuters	Reuters	http://en.wikipedia.org/wiki/Reuters	000	000
 InquirerIntel
 to
 invest
 7
 billion
 in
-US	B	US	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+US	B	US	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 as
 rec
 http
@@ -195,21 +195,21 @@ choa7e
 -DOCSTART- (1000000000060
 RT
 salvos
-Myer	B	Myer	yer	http://en.wikipedia.org/wiki/Myer	000	000
+Myer	B	Myer	Myer	http://en.wikipedia.org/wiki/Myer	000	000
 is
 matching
 donations
 made
 instore
-dollar	B	dollar	nited_States_dollar	http://en.wikipedia.org/wiki/United_States_dollar	000	000
+dollar	B	dollar	United_States_dollar	http://en.wikipedia.org/wiki/United_States_dollar	000	000
 for
-dollar	B	dollar	nited_States_dollar	http://en.wikipedia.org/wiki/United_States_dollar	000	000
+dollar	B	dollar	United_States_dollar	http://en.wikipedia.org/wiki/United_States_dollar	000	000
 http
 tinyurl
 com
 Myer
 Bushfire
-Myer	B	Myer	yer	http://en.wikipedia.org/wiki/Myer	000	000
+Myer	B	Myer	Myer	http://en.wikipedia.org/wiki/Myer	000	000
 generosity
 once
 again
@@ -228,7 +228,7 @@ salvationarmy
 org
 and
 specify
-Australian	B	Australian	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australian	B	Australian	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 Bushfire
 Appeal
 bushfires
@@ -255,17 +255,17 @@ raised
 goes
 to
 the
-Vic	B	Vic	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
-Red	B	Red Cross	nternational_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
-Cross	I	Red Cross	nternational_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
+Vic	B	Vic	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Red	B	Red Cross	International_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
+Cross	I	Red Cross	International_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
 appeal
 
 -DOCSTART- (1000000000100
-Patagonia	B	Patagonia	atagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
+Patagonia	B	Patagonia	Patagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
 outdoor
 clothing
 in
-Buckhead	B	Buckhead	uckhead,_Georgia	http://en.wikipedia.org/wiki/Buckhead,_Georgia	000	000
+Buckhead	B	Buckhead	Buckhead,_Georgia	http://en.wikipedia.org/wiki/Buckhead,_Georgia	000	000
 offering
 recession
 buster
@@ -290,13 +290,13 @@ treat
 allowance
 to
 the
-Red	B	Red Cross	nternational_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
-Cross	I	Red Cross	nternational_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
-Australian	B	Australian	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Red	B	Red Cross	International_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
+Cross	I	Red Cross	International_Committee_of_the_Red_Cross	http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	000	000
+Australian	B	Australian	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 Bushfire
 Appeal
-The	B	The Beans	iami	http://en.wikipedia.org/wiki/Miami	000	000
-Beans	I	The Beans	iami	http://en.wikipedia.org/wiki/Miami	000	000
+The	B	The Beans	Miami	http://en.wikipedia.org/wiki/Miami	000	000
+Beans	I	The Beans	Miami	http://en.wikipedia.org/wiki/Miami	000	000
 are
 donating
 a
@@ -306,14 +306,14 @@ money
 too
 
 -DOCSTART- (1000000000136
-Dan	B	Dan	mazon_Elastic_Compute_Cloud	http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud	000	000
+Dan	B	Dan	Amazon_Elastic_Compute_Cloud	http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud	000	000
 blogged
 about
 managing
-EC2	B	EC2	mazon_Elastic_Compute_Cloud	http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud	000	000
+EC2	B	EC2	Amazon_Elastic_Compute_Cloud	http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud	000	000
 from
 your
-iPhone	B	iPhone	Phone	http://en.wikipedia.org/wiki/IPhone	000	000
+iPhone	B	iPhone	IPhone	http://en.wikipedia.org/wiki/IPhone	000	000
 http
 tinyurl
 com
@@ -325,29 +325,29 @@ Lots
 of
 places
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Bob	B	Bob Wards	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Wards	I	Bob Wards	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Roundhouse	B	Roundhouse	atagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bob	B	Bob Wards	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Wards	I	Bob Wards	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Roundhouse	B	Roundhouse	Patagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
 and
-The	B	The Barn	atagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
-Barn	I	The Barn	atagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
+The	B	The Barn	Patagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
+Barn	I	The Barn	Patagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
 There
 is
 also
 a
 secret
-Patagonia	B	Patagonia	atagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
+Patagonia	B	Patagonia	Patagonia_(clothing)	http://en.wikipedia.org/wiki/Patagonia_(clothing)	000	000
 outlet
 in
-Dillon	B	Dillon	illon,_Montana	http://en.wikipedia.org/wiki/Dillon,_Montana	000	000
+Dillon	B	Dillon	Dillon,_Montana	http://en.wikipedia.org/wiki/Dillon,_Montana	000	000
 shhhh
 
 -DOCSTART- (1000000000153
 New
 Blog
 post
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 attackers
 got
 internal
@@ -362,10 +362,10 @@ b6fbds
 New
 Blog
 post
-Pak	B	Pak	akistan	http://en.wikipedia.org/wiki/Pakistan	000	000
+Pak	B	Pak	Pakistan	http://en.wikipedia.org/wiki/Pakistan	000	000
 evasive
 on
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 dossier
 reply
 seeks
@@ -378,18 +378,18 @@ aenbqx
 
 -DOCSTART- (1000000000161
 blog
-Majhi	B	Majhi	ajha	http://en.wikipedia.org/wiki/Majha	000	000
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Majhi	B	Majhi	Majha	http://en.wikipedia.org/wiki/Majha	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 http
 tinyurl
 com
 c7snkq
-Danny	B	Danny	anny_Boyle	http://en.wikipedia.org/wiki/Danny_Boyle	000	000
+Danny	B	Danny	Danny_Boyle	http://en.wikipedia.org/wiki/Danny_Boyle	000	000
 s
 take
 on
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
-IndiaGlitz	B	IndiaGlitz	anny_Boyle	http://en.wikipedia.org/wiki/Danny_Boyle	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+IndiaGlitz	B	IndiaGlitz	Danny_Boyle	http://en.wikipedia.org/wiki/Danny_Boyle	000	000
 
 -DOCSTART- (1000000000168
 RT
@@ -401,7 +401,7 @@ should
 be
 taken
 to
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 City
 Hall
 at
@@ -426,7 +426,7 @@ post
 Explosion
 in
 downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 Twitterers
 first
 on
@@ -444,7 +444,7 @@ oh
 oh
 TinyURL
 down
-Twitter	B	Twitter	witter	http://en.wikipedia.org/wiki/Twitter	000	000
+Twitter	B	Twitter	Twitter	http://en.wikipedia.org/wiki/Twitter	000	000
 collapses
 onto
 itself
@@ -459,7 +459,7 @@ many
 bushfire
 stories
 on
-YouTube	B	YouTube	ouTube	http://en.wikipedia.org/wiki/YouTube	000	000
+YouTube	B	YouTube	YouTube	http://en.wikipedia.org/wiki/YouTube	000	000
 as
 I
 can
@@ -471,7 +471,7 @@ u4v01
 Hope
 this
 helps
-Aussie	B	Aussie	ussie	http://en.wikipedia.org/wiki/Aussie	000	000
+Aussie	B	Aussie	Aussie	http://en.wikipedia.org/wiki/Aussie	000	000
 expats
 via
 Cammo
@@ -482,9 +482,9 @@ bushfire
 benefit
 being
 planned
-Myer	B	Myer Music Bowl	idney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
-Music	I	Myer Music Bowl	idney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
-Bowl	I	Myer Music Bowl	idney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
+Myer	B	Myer Music Bowl	Sidney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
+Music	I	Myer Music Bowl	Sidney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
+Bowl	I	Myer Music Bowl	Sidney_Myer_Music_Bowl	http://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl	000	000
 March
 7
 Watch
@@ -501,7 +501,7 @@ rocksolidp
 Please
 help
 bushfire
-twitter	B	twitter	witter	http://en.wikipedia.org/wiki/Twitter	000	000
+twitter	B	twitter	Twitter	http://en.wikipedia.org/wiki/Twitter	000	000
 channel
 be
 useful
@@ -531,7 +531,7 @@ footage
 coming
 in
 from
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 bozemanexplosion
 
 -DOCSTART- (1000000000267
@@ -540,7 +540,7 @@ sitepointdotcom
 Choose
 ANY
 5
-SitePoint	B	SitePoint	itePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
+SitePoint	B	SitePoint	SitePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
 books
 for
 just
@@ -550,7 +550,7 @@ Every
 cent
 goes
 to
-Aussie	B	Aussie	ussie	http://en.wikipedia.org/wiki/Aussie	000	000
+Aussie	B	Aussie	Aussie	http://en.wikipedia.org/wiki/Aussie	000	000
 bushfire
 appeal
 http
@@ -566,7 +566,7 @@ photos
 of
 bozexplod
 on
-Digg	B	Digg	igg	http://en.wikipedia.org/wiki/Digg	000	000
+Digg	B	Digg	Digg	http://en.wikipedia.org/wiki/Digg	000	000
 Please
 vote
 http
@@ -577,7 +577,7 @@ ly
 -DOCSTART- (1000000000303
 Listening
 to
-U2	B	U2	2	http://en.wikipedia.org/wiki/U2	000	000
+U2	B	U2	U2	http://en.wikipedia.org/wiki/U2	000	000
 s
 latest
 while
@@ -589,7 +589,7 @@ to
 visit
 bushfire
 zone
-AUSTRALIA	B	AUSTRALIA	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+AUSTRALIA	B	AUSTRALIA	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 S
 cricketers
 have
@@ -598,8 +598,8 @@ their
 preparations
 for
 the
-Chappell	B	Chappell-Hadle	happell–Hadlee_Trophy	http://en.wikipedia.org/wiki/Chappell–Hadlee_Trophy	000	000
-Hadle	I	Chappell-Hadle	happell–Hadlee_Trophy	http://en.wikipedia.org/wiki/Chappell–Hadlee_Trophy	000	000
+Chappell	B	Chappell-Hadle	Chappell–Hadlee_Trophy	http://en.wikipedia.org/wiki/Chappell–Hadlee_Trophy	000	000
+Hadle	I	Chappell-Hadle	Chappell–Hadlee_Trophy	http://en.wikipedia.org/wiki/Chappell–Hadlee_Trophy	000	000
 http
 tinyurl
 com
@@ -616,7 +616,7 @@ strapped
 consumers
 kept
 buying
-McDonald	B	McDonald	cDonald's	http://en.wikipedia.org/wiki/McDonald's	000	000
+McDonald	B	McDonald	McDonald's	http://en.wikipedia.org/wiki/McDonald's	000	000
 s
 burgers
 and
@@ -633,7 +633,7 @@ ao3wno
 Last
 day
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 Bow
 staff
 computer
@@ -645,8 +645,8 @@ progress
 made
 
 -DOCSTART- (1000000000367
-Dale	B	Dale Carnegie	ale_Carnegie	http://en.wikipedia.org/wiki/Dale_Carnegie	000	000
-Carnegie	I	Dale Carnegie	ale_Carnegie	http://en.wikipedia.org/wiki/Dale_Carnegie	000	000
+Dale	B	Dale Carnegie	Dale_Carnegie	http://en.wikipedia.org/wiki/Dale_Carnegie	000	000
+Carnegie	I	Dale Carnegie	Dale_Carnegie	http://en.wikipedia.org/wiki/Dale_Carnegie	000	000
 tip
 to
 win
@@ -672,11 +672,11 @@ tasks
 
 -DOCSTART- (1000000000391
 Another
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 fire
 video
 from
-afar	B	afar	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+afar	B	afar	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 http
 tinyurl
 com
@@ -685,13 +685,13 @@ bozexplod
 
 -DOCSTART- (1000000000394
 Ask
-Peter	B	Peter Costello	eter_Costello	http://en.wikipedia.org/wiki/Peter_Costello	000	000
-Costello	I	Peter Costello	eter_Costello	http://en.wikipedia.org/wiki/Peter_Costello	000	000
+Peter	B	Peter Costello	Peter_Costello	http://en.wikipedia.org/wiki/Peter_Costello	000	000
+Costello	I	Peter Costello	Peter_Costello	http://en.wikipedia.org/wiki/Peter_Costello	000	000
 if
 he
 endorses
-Danny	B	Danny Nalliah	anny_Nalliah	http://en.wikipedia.org/wiki/Danny_Nalliah	000	000
-Nalliah	I	Danny Nalliah	anny_Nalliah	http://en.wikipedia.org/wiki/Danny_Nalliah	000	000
+Danny	B	Danny Nalliah	Danny_Nalliah	http://en.wikipedia.org/wiki/Danny_Nalliah	000	000
+Nalliah	I	Danny Nalliah	Danny_Nalliah	http://en.wikipedia.org/wiki/Danny_Nalliah	000	000
 s
 bushfire
 comments
@@ -705,7 +705,7 @@ bushfire
 superjaberwocky
 is
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 and
 doing
 a
@@ -728,8 +728,8 @@ conference
 more
 proof
 that
-Manny	B	Manny Ramirez	anny_Ramirez	http://en.wikipedia.org/wiki/Manny_Ramirez	000	000
-Ramirez	I	Manny Ramirez	anny_Ramirez	http://en.wikipedia.org/wiki/Manny_Ramirez	000	000
+Manny	B	Manny Ramirez	Manny_Ramirez	http://en.wikipedia.org/wiki/Manny_Ramirez	000	000
+Ramirez	I	Manny Ramirez	Manny_Ramirez	http://en.wikipedia.org/wiki/Manny_Ramirez	000	000
 is
 the
 most
@@ -745,7 +745,7 @@ starts
 twittering
 
 -DOCSTART- (1000000000486
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 explosion
 pics
 http
@@ -759,7 +759,7 @@ funkatron
 Choose
 ANY
 5
-SitePoint	B	SitePoint	itePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
+SitePoint	B	SitePoint	SitePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
 books
 for
 just
@@ -769,7 +769,7 @@ Every
 cent
 goes
 to
-Aussie	B	Aussie	ussie	http://en.wikipedia.org/wiki/Aussie	000	000
+Aussie	B	Aussie	Aussie	http://en.wikipedia.org/wiki/Aussie	000	000
 bushfire
 appeal
 http
@@ -778,16 +778,16 @@ sitepoint
 com
 
 -DOCSTART- (1000000000514
-Australia	B	Australia	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australia	B	Australia	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 declares
 bushfire
 disaster
 a
 crime
 scene
-SYDNEY	B	SYDNEY	ydney	http://en.wikipedia.org/wiki/Sydney	000	000
-Reuters	B	Reuters	euters	http://en.wikipedia.org/wiki/Reuters	000	000
-Australian	B	Australian	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+SYDNEY	B	SYDNEY	Sydney	http://en.wikipedia.org/wiki/Sydney	000	000
+Reuters	B	Reuters	Reuters	http://en.wikipedia.org/wiki/Reuters	000	000
+Australian	B	Australian	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 police
 treated
 the
@@ -805,7 +805,7 @@ shock
 that
 the
 downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 bar
 scene
 blew
@@ -831,8 +831,8 @@ explosion
 in
 d
 t
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-MT	B	MT	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+MT	B	MT	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 3
 bldgs
 collapsed
@@ -848,7 +848,7 @@ missing
 Donate
 to
 the
-Victorian	B	Victorian	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victorian	B	Victorian	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 Bushfire
 Appeal
 http
@@ -861,26 +861,26 @@ au
 If
 you
 loved
-Slumdog	B	Slumdog Millionaire	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
-Millionaire	I	Slumdog Millionaire	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Slumdog	B	Slumdog Millionaire	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Millionaire	I	Slumdog Millionaire	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
 be
 sure
 to
 check
-Jonas	B	Jonas Beniksen	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
-Beniksen	I	Jonas Beniksen	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Jonas	B	Jonas Beniksen	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Beniksen	I	Jonas Beniksen	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 s
-The	B	The Places We Live	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
-Places	I	The Places We Live	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
-We	I	The Places We Live	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
-Live	I	The Places We Live	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+The	B	The Places We Live	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Places	I	The Places We Live	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+We	I	The Places We Live	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Live	I	The Places We Live	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
 started
 as
 a
 NG
 story
 on
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 http
 is
 gd
@@ -888,14 +888,14 @@ iYf2
 
 -DOCSTART- (1000000000667
 At
-DEMO	B	DEMO	EMO_conference	http://en.wikipedia.org/wiki/DEMO_conference	000	000
-VCs	B	VCs	enture_capital	http://en.wikipedia.org/wiki/Venture_capital	000	000
+DEMO	B	DEMO	DEMO_conference	http://en.wikipedia.org/wiki/DEMO_conference	000	000
+VCs	B	VCs	Venture_capital	http://en.wikipedia.org/wiki/Venture_capital	000	000
 Have
 Stern
 Advice
 for
 Startups
-BusinessWeek	B	BusinessWeek	loomberg_Businessweek	http://en.wikipedia.org/wiki/Bloomberg_Businessweek	000	000
+BusinessWeek	B	BusinessWeek	Bloomberg_Businessweek	http://en.wikipedia.org/wiki/Bloomberg_Businessweek	000	000
 http
 fleck
 com
@@ -910,9 +910,9 @@ the
 true
 scenes
 in
-DC	B	DC	ashington,_D.C.	http://en.wikipedia.org/wiki/Washington,_D.C.	000	000
+DC	B	DC	Washington,_D.C.	http://en.wikipedia.org/wiki/Washington,_D.C.	000	000
 and
-Boston	B	Boston	oston	http://en.wikipedia.org/wiki/Boston	000	000
+Boston	B	Boston	Boston	http://en.wikipedia.org/wiki/Boston	000	000
 are
 now
 legendary
@@ -933,8 +933,8 @@ small
 animals
 please
 contact
-Animal	B	Animal Aid	nimal_Aid	http://en.wikipedia.org/wiki/Animal_Aid	000	000
-Aid	I	Animal Aid	nimal_Aid	http://en.wikipedia.org/wiki/Animal_Aid	000	000
+Animal	B	Animal Aid	Animal_Aid	http://en.wikipedia.org/wiki/Animal_Aid	000	000
+Aid	I	Animal Aid	Animal_Aid	http://en.wikipedia.org/wiki/Animal_Aid	000	000
 http
 www
 animalaid
@@ -944,15 +944,15 @@ bushfire
 
 -DOCSTART- (1000000000744
 firefighter
-David	B	David Tree	avid_Tree	http://en.wikipedia.org/wiki/David_Tree	000	000
-Tree	I	David Tree	avid_Tree	http://en.wikipedia.org/wiki/David_Tree	000	000
+David	B	David Tree	David_Tree	http://en.wikipedia.org/wiki/David_Tree	000	000
+Tree	I	David Tree	David_Tree	http://en.wikipedia.org/wiki/David_Tree	000	000
 shares
 his
 water
 with
 an
 injured
-Australian	B	Australian	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australian	B	Australian	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 Koala
 http
 tinyurl
@@ -963,12 +963,12 @@ bushfire
 -DOCSTART- (1000000000779
 kimster_p
 What
-Duck	B	Duck Hunt	uck_Hunt	http://en.wikipedia.org/wiki/Duck_Hunt	000	000
-Hunt	I	Duck Hunt	uck_Hunt	http://en.wikipedia.org/wiki/Duck_Hunt	000	000
+Duck	B	Duck Hunt	Duck_Hunt	http://en.wikipedia.org/wiki/Duck_Hunt	000	000
+Hunt	I	Duck Hunt	Duck_Hunt	http://en.wikipedia.org/wiki/Duck_Hunt	000	000
 and
 the
 original
-Nintendo	B	Nintendo	intendo	http://en.wikipedia.org/wiki/Nintendo	000	000
+Nintendo	B	Nintendo	Nintendo	http://en.wikipedia.org/wiki/Nintendo	000	000
 isn
 t
 good
@@ -992,7 +992,7 @@ Should
 I
 go
 to
-America	B	America	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+America	B	America	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 or
 stay
 till
@@ -1009,7 +1009,7 @@ on
 Saturday
 
 -DOCSTART- (1000000000808
-Michaela	B	Michaela	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Michaela	B	Michaela	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 wonders
 how
 often
@@ -1018,12 +1018,12 @@ too
 often
 to
 update
-twitter	B	twitter	witter	http://en.wikipedia.org/wiki/Twitter	000	000
+twitter	B	twitter	Twitter	http://en.wikipedia.org/wiki/Twitter	000	000
 
 -DOCSTART- (1000000000885
 bozexplod
 Gov
-Schweitzer	B	Schweitzer	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Schweitzer	B	Schweitzer	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
 State
 and
 Federal
@@ -1035,19 +1035,19 @@ owners
 and
 workers
 Contact
-MT	B	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-Dept	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-of	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-Labor	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+MT	B	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Dept	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+of	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Labor	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
 
 -DOCSTART- (1000000000890
 bozexplod
 Gov
-Schweitzer	B	Schweitzer	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-Whitehouse	B	Whitehouse	hite_House	http://en.wikipedia.org/wiki/White_House	000	000
+Schweitzer	B	Schweitzer	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Whitehouse	B	Whitehouse	White_House	http://en.wikipedia.org/wiki/White_House	000	000
 and
-Homeland	B	Homeland Security	nited_States_Department_of_Homeland_Security	http://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security	000	000
-Security	I	Homeland Security	nited_States_Department_of_Homeland_Security	http://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security	000	000
+Homeland	B	Homeland Security	United_States_Department_of_Homeland_Security	http://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security	000	000
+Security	I	Homeland Security	United_States_Department_of_Homeland_Security	http://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security	000	000
 have
 been
 notified
@@ -1061,7 +1061,7 @@ com
 what
 ch
 recon
-Alberto	B	Alberto	lberto_Contador	http://en.wikipedia.org/wiki/Alberto_Contador	000	000
+Alberto	B	Alberto	Alberto_Contador	http://en.wikipedia.org/wiki/Alberto_Contador	000	000
 will
 be
 da
@@ -1081,8 +1081,8 @@ a
 storm
 alarm
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 http
 tinyurl
 com
@@ -1098,12 +1098,12 @@ is
 the
 trip
 from
-L	B	L.A	os_Angeles	http://en.wikipedia.org/wiki/Los_Angeles	000	000
-A	I	L.A	os_Angeles	http://en.wikipedia.org/wiki/Los_Angeles	000	000
-California	B	California	alifornia	http://en.wikipedia.org/wiki/California	000	000
+L	B	L.A	Los_Angeles	http://en.wikipedia.org/wiki/Los_Angeles	000	000
+A	I	L.A	Los_Angeles	http://en.wikipedia.org/wiki/Los_Angeles	000	000
+California	B	California	California	http://en.wikipedia.org/wiki/California	000	000
 to
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 What
 am
 I
@@ -1129,8 +1129,8 @@ cost
 of
 living
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 very
 high
 http
@@ -1149,7 +1149,7 @@ com
 bo6b4s
 donate
 for
-Australian	B	Australian	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australian	B	Australian	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 Bushfire
 Casualties
 
@@ -1163,8 +1163,8 @@ March
 1
 3
 10pm
-Portland	B	Portland	ortland,_Oregon	http://en.wikipedia.org/wiki/Portland,_Oregon	000	000
-OR	B	OR	regon	http://en.wikipedia.org/wiki/Oregon	000	000
+Portland	B	Portland	Portland,_Oregon	http://en.wikipedia.org/wiki/Portland,_Oregon	000	000
+OR	B	OR	Oregon	http://en.wikipedia.org/wiki/Oregon	000	000
 http
 toolshedpdx
 org
@@ -1177,10 +1177,10 @@ Season
 The
 ONLY
 Time
-Houston	B	Houston	ouston	http://en.wikipedia.org/wiki/Houston	000	000
+Houston	B	Houston	Houston	http://en.wikipedia.org/wiki/Houston	000	000
 resembles
 a
-Texas	B	Texas	exas	http://en.wikipedia.org/wiki/Texas	000	000
+Texas	B	Texas	Texas	http://en.wikipedia.org/wiki/Texas	000	000
 Cowboy
 Town
 Yee
@@ -1197,15 +1197,15 @@ adcrw4
 Wow
 according
 to
-bit	B	bit.ly	itly	http://en.wikipedia.org/wiki/Bitly	000	000
-ly	I	bit.ly	itly	http://en.wikipedia.org/wiki/Bitly	000	000
+bit	B	bit.ly	Bitly	http://en.wikipedia.org/wiki/Bitly	000	000
+ly	I	bit.ly	Bitly	http://en.wikipedia.org/wiki/Bitly	000	000
 I
 sent
 129
 people
 to
-Gary	B	Gary Hughes	ary_Hughes	http://en.wikipedia.org/wiki/Gary_Hughes	000	000
-Hughes	I	Gary Hughes	ary_Hughes	http://en.wikipedia.org/wiki/Gary_Hughes	000	000
+Gary	B	Gary Hughes	Gary_Hughes	http://en.wikipedia.org/wiki/Gary_Hughes	000	000
+Hughes	I	Gary Hughes	Gary_Hughes	http://en.wikipedia.org/wiki/Gary_Hughes	000	000
 Bush
 Fires
 article
@@ -1222,11 +1222,11 @@ hell
 
 -DOCSTART- (1000000001010
 installing
-office	B	office 2007	icrosoft_Office_2007	http://en.wikipedia.org/wiki/Microsoft_Office_2007	000	000
-2007	I	office 2007	icrosoft_Office_2007	http://en.wikipedia.org/wiki/Microsoft_Office_2007	000	000
+office	B	office 2007	Microsoft_Office_2007	http://en.wikipedia.org/wiki/Microsoft_Office_2007	000	000
+2007	I	office 2007	Microsoft_Office_2007	http://en.wikipedia.org/wiki/Microsoft_Office_2007	000	000
 on
 NetBook
-W7	B	W7	indows_7	http://en.wikipedia.org/wiki/Windows_7	000	000
+W7	B	W7	Windows_7	http://en.wikipedia.org/wiki/Windows_7	000	000
 install
 was
 quick
@@ -1241,8 +1241,8 @@ gas
 explosion
 in
 downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 today
 Wondering
 if
@@ -1260,13 +1260,13 @@ not
 
 -DOCSTART- (1000000001021
 DF
-SitePoint	B	SitePoint	itePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
+SitePoint	B	SitePoint	SitePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
 The
 Bushfire
 Relief
 Sale
-Southern	B	Southern Australia	outhern_Australia	http://en.wikipedia.org/wiki/Southern_Australia	000	000
-Australia	I	Southern Australia	outhern_Australia	http://en.wikipedia.org/wiki/Southern_Australia	000	000
+Southern	B	Southern Australia	Southern_Australia	http://en.wikipedia.org/wiki/Southern_Australia	000	000
+Australia	I	Southern Australia	Southern_Australia	http://en.wikipedia.org/wiki/Southern_Australia	000	000
 has
 been
 hit
@@ -1284,8 +1284,8 @@ com
 azxxea
 
 -DOCSTART- (1000000001035
-Slumdog	B	Slumdog Millionaire	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
-Millionaire	I	Slumdog Millionaire	lumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Slumdog	B	Slumdog Millionaire	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
+Millionaire	I	Slumdog Millionaire	Slumdog_Millionaire	http://en.wikipedia.org/wiki/Slumdog_Millionaire	000	000
 the
 feel
 good
@@ -1298,7 +1298,7 @@ just
 exposing
 the
 real
-Mumbai	B	Mumbai	umbai	http://en.wikipedia.org/wiki/Mumbai	000	000
+Mumbai	B	Mumbai	Mumbai	http://en.wikipedia.org/wiki/Mumbai	000	000
 it
 s
 helping
@@ -1310,24 +1310,24 @@ com
 cmgdh4
 
 -DOCSTART- (1000000001041
-Intel	B	Intel	ntel_Corporation	http://en.wikipedia.org/wiki/Intel_Corporation	000	000
+Intel	B	Intel	Intel_Corporation	http://en.wikipedia.org/wiki/Intel_Corporation	000	000
 to
 invest
 7
 billion
 in
-U	B	U.S	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
-S	I	U.S	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+U	B	U.S	United_States	http://en.wikipedia.org/wiki/United_States	000	000
+S	I	U.S	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 as
 recession
 deepens
-NEW	B	NEW YORK	ew_York	http://en.wikipedia.org/wiki/New_York	000	000
-YORK	I	NEW YORK	ew_York	http://en.wikipedia.org/wiki/New_York	000	000
-SAN	B	SAN FRANCISCO	an_Francisco	http://en.wikipedia.org/wiki/San_Francisco	000	000
-FRANCISCO	I	SAN FRANCISCO	an_Francisco	http://en.wikipedia.org/wiki/San_Francisco	000	000
-Reuters	B	Reuters	euters	http://en.wikipedia.org/wiki/Reuters	000	000
-Intel	B	Intel Corp	ntel	http://en.wikipedia.org/wiki/Intel	000	000
-Corp	I	Intel Corp	ntel	http://en.wikipedia.org/wiki/Intel	000	000
+NEW	B	NEW YORK	New_York	http://en.wikipedia.org/wiki/New_York	000	000
+YORK	I	NEW YORK	New_York	http://en.wikipedia.org/wiki/New_York	000	000
+SAN	B	SAN FRANCISCO	San_Francisco	http://en.wikipedia.org/wiki/San_Francisco	000	000
+FRANCISCO	I	SAN FRANCISCO	San_Francisco	http://en.wikipedia.org/wiki/San_Francisco	000	000
+Reuters	B	Reuters	Reuters	http://en.wikipedia.org/wiki/Reuters	000	000
+Intel	B	Intel Corp	Intel	http://en.wikipedia.org/wiki/Intel	000	000
+Corp	I	Intel Corp	Intel	http://en.wikipedia.org/wiki/Intel	000	000
 plans
 to
 http
@@ -1337,18 +1337,18 @@ bby4m3
 
 -DOCSTART- (1000000001042
 9
-bozeman	B	bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+bozeman	B	bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 news
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 News
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 News
 stories
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 News
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-MT	B	MT	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+MT	B	MT	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 News
 information
 edi
@@ -1358,14 +1358,14 @@ com
 bogtoq
 
 -DOCSTART- (1000000001051
-Arthur	B	Arthur Allan Thomas	rthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
-Allan	I	Arthur Allan Thomas	rthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
-Thomas	I	Arthur Allan Thomas	rthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
+Arthur	B	Arthur Allan Thomas	Arthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
+Allan	I	Arthur Allan Thomas	Arthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
+Thomas	I	Arthur Allan Thomas	Arthur_Allan_Thomas	http://en.wikipedia.org/wiki/Arthur_Allan_Thomas	000	000
 Arrives
 To
 Support
-David	B	David Bain	avid_Bain	http://en.wikipedia.org/wiki/David_Bain	000	000
-Bain	I	David Bain	avid_Bain	http://en.wikipedia.org/wiki/David_Bain	000	000
+David	B	David Bain	David_Bain	http://en.wikipedia.org/wiki/David_Bain	000	000
+Bain	I	David Bain	David_Bain	http://en.wikipedia.org/wiki/David_Bain	000	000
 Eds
 pix
 at
@@ -1373,10 +1373,10 @@ www
 nzpaimages
 co
 nz
-Wellington	B	Wellington	ellington	http://en.wikipedia.org/wiki/Wellington	000	000
+Wellington	B	Wellington	Wellington	http://en.wikipedia.org/wiki/Wellington	000	000
 March
 6
-NZPA	B	NZPA	ew_Zealand_Press_Association	http://en.wikipedia.org/wiki/New_Zealand_Press_Association	000	000
+NZPA	B	NZPA	New_Zealand_Press_Association	http://en.wikipedia.org/wiki/New_Zealand_Press_Association	000	000
 http
 twurl
 nl
@@ -1391,7 +1391,7 @@ was
 an
 institution
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 What
 happened
 Fire
@@ -1399,7 +1399,7 @@ Fire
 -DOCSTART- (1000000001082
 peteseat
 Also
-AP	B	AP	ssociated_Press	http://en.wikipedia.org/wiki/Associated_Press	000	000
+AP	B	AP	Associated_Press	http://en.wikipedia.org/wiki/Associated_Press	000	000
 story
 What
 about
@@ -1407,14 +1407,14 @@ the
 far
 more
 influential
-AFP	B	AFP	gence_France-Presse	http://en.wikipedia.org/wiki/Agence_France-Presse	000	000
+AFP	B	AFP	Agence_France-Presse	http://en.wikipedia.org/wiki/Agence_France-Presse	000	000
 blog
 post
 you
 ingrate
 
 -DOCSTART- (1000000001084
-SitePoint	B	SitePoint	itePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
+SitePoint	B	SitePoint	SitePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
 s
 Bushfire
 Relief
@@ -1433,7 +1433,7 @@ help
 victims
 of
 the
-Aussie	B	Aussie	ussie	http://en.wikipedia.org/wiki/Aussie	000	000
+Aussie	B	Aussie	Aussie	http://en.wikipedia.org/wiki/Aussie	000	000
 bushfires
 
 -DOCSTART- (1000000001091
@@ -1441,11 +1441,11 @@ trying
 to
 organise
 a
-PayPal	B	PayPal	ayPal	http://en.wikipedia.org/wiki/PayPal	000	000
+PayPal	B	PayPal	PayPal	http://en.wikipedia.org/wiki/PayPal	000	000
 account
 with
-Sea	B	Sea FM	ea_FM_(Australian_radio_network)	http://en.wikipedia.org/wiki/Sea_FM_(Australian_radio_network)	000	000
-FM	I	Sea FM	ea_FM_(Australian_radio_network)	http://en.wikipedia.org/wiki/Sea_FM_(Australian_radio_network)	000	000
+Sea	B	Sea FM	Sea_FM_(Australian_radio_network)	http://en.wikipedia.org/wiki/Sea_FM_(Australian_radio_network)	000	000
+FM	I	Sea FM	Sea_FM_(Australian_radio_network)	http://en.wikipedia.org/wiki/Sea_FM_(Australian_radio_network)	000	000
 for
 Bushfire
 Donations
@@ -1459,7 +1459,7 @@ more
 -DOCSTART- (1000000001123
 bozexplod
 Gov
-Schweitzer	B	Schweitzer	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Schweitzer	B	Schweitzer	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
 State
 and
 Federal
@@ -1471,21 +1471,21 @@ owners
 and
 workers
 Contact
-MT	B	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-Dept	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-of	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
-Labor	I	MT Dept. of Labor	rian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+MT	B	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Dept	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+of	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
+Labor	I	MT Dept. of Labor	Brian_Schweitzer	http://en.wikipedia.org/wiki/Brian_Schweitzer	000	000
 
 -DOCSTART- (1000000001135
 I
 m
 reading
 the
-Twitter	B	Twitter	witter	http://en.wikipedia.org/wiki/Twitter	000	000
+Twitter	B	Twitter	Twitter	http://en.wikipedia.org/wiki/Twitter	000	000
 updates
 regarding
 the
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 gas
 explosion
 downtown
@@ -1502,7 +1502,7 @@ to
 donate
 to
 the
-Victorian	B	Victorian	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victorian	B	Victorian	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 Bushfire
 appeal
 https
@@ -1515,7 +1515,7 @@ onlineDonations
 asp
 
 -DOCSTART- (1000000001146
-FSB	B	FSB	ederation_of_Small_Businesses	http://en.wikipedia.org/wiki/Federation_of_Small_Businesses	000	000
+FSB	B	FSB	Federation_of_Small_Businesses	http://en.wikipedia.org/wiki/Federation_of_Small_Businesses	000	000
 Half
 of
 the
@@ -1523,8 +1523,8 @@ small
 businesses
 in
 the
-United	B	United States	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
-States	I	United States	nited_States	http://en.wikipedia.org/wiki/United_States	000	000
+United	B	United States	United_States	http://en.wikipedia.org/wiki/United_States	000	000
+States	I	United States	United_States	http://en.wikipedia.org/wiki/United_States	000	000
 49
 are
 concerned
@@ -1556,7 +1556,7 @@ out
 from
 everyone
 at
-Rhino	B	Rhino	hino_Entertainment	http://en.wikipedia.org/wiki/Rhino_Entertainment	000	000
+Rhino	B	Rhino	Rhino_Entertainment	http://en.wikipedia.org/wiki/Rhino_Entertainment	000	000
 
 -DOCSTART- (1000000001246
 basseyworld
@@ -1575,8 +1575,8 @@ s
 right
 but
 even
-Dr	B	Dr. Phil	hil_McGraw	http://en.wikipedia.org/wiki/Phil_McGraw	000	000
-Phil	I	Dr. Phil	hil_McGraw	http://en.wikipedia.org/wiki/Phil_McGraw	000	000
+Dr	B	Dr. Phil	Phil_McGraw	http://en.wikipedia.org/wiki/Phil_McGraw	000	000
+Phil	I	Dr. Phil	Phil_McGraw	http://en.wikipedia.org/wiki/Phil_McGraw	000	000
 said
 No
 one
@@ -1593,15 +1593,15 @@ down
 about
 bozexplod
 on
-KMMS	B	KMMS AM	MMS_(AM)	http://en.wikipedia.org/wiki/KMMS_(AM)	000	000
-AM	I	KMMS AM	MMS_(AM)	http://en.wikipedia.org/wiki/KMMS_(AM)	000	000
+KMMS	B	KMMS AM	KMMS_(AM)	http://en.wikipedia.org/wiki/KMMS_(AM)	000	000
+AM	I	KMMS AM	KMMS_(AM)	http://en.wikipedia.org/wiki/KMMS_(AM)	000	000
 apparently
 since
 they
 switched
 over
 to
-Limbaugh	B	Limbaugh	ush_Limbaugh	http://en.wikipedia.org/wiki/Rush_Limbaugh	000	000
+Limbaugh	B	Limbaugh	Rush_Limbaugh	http://en.wikipedia.org/wiki/Rush_Limbaugh	000	000
 
 -DOCSTART- (1000000001274
 Can
@@ -1620,14 +1620,14 @@ so
 I
 can
 watch
-Japan	B	Japan	apan	http://en.wikipedia.org/wiki/Japan	000	000
+Japan	B	Japan	Japan	http://en.wikipedia.org/wiki/Japan	000	000
 v
-China	B	China	hina	http://en.wikipedia.org/wiki/China	000	000
+China	B	China	China	http://en.wikipedia.org/wiki/China	000	000
 play
 baseball
-World	B	World Baseball Classic	orld_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
-Baseball	I	World Baseball Classic	orld_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
-Classic	I	World Baseball Classic	orld_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
+World	B	World Baseball Classic	World_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
+Baseball	I	World Baseball Classic	World_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
+Classic	I	World Baseball Classic	World_Baseball_Classic	http://en.wikipedia.org/wiki/World_Baseball_Classic	000	000
 is
 a
 great
@@ -1638,7 +1638,7 @@ RT
 Explosion
 in
 downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 Twitterers
 first
 on
@@ -1672,7 +1672,7 @@ my
 dad
 works
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 scary
 
 -DOCSTART- (1000000001301
@@ -1687,7 +1687,7 @@ out
 in
 back
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 exploded
 this
 morning
@@ -1713,7 +1713,7 @@ that
 happened
 in
 downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 bozexplod
 
 -DOCSTART- (1000000001390
@@ -1724,9 +1724,9 @@ got
 a
 fax
 from
-MDOT	B	MDOT	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+MDOT	B	MDOT	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 East
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 interchange
 has
 been
@@ -1742,14 +1742,14 @@ bozexplod
 -DOCSTART- (1000000001399
 RT
 Baucus
-Baucus	B	Baucus	ax_Baucus	http://en.wikipedia.org/wiki/Max_Baucus	000	000
+Baucus	B	Baucus	Max_Baucus	http://en.wikipedia.org/wiki/Max_Baucus	000	000
 issues
 statement
 on
 devastating
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 explosion
-Montana	B	Montana	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+Montana	B	Montana	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 http
 twurl
 nl
@@ -1763,11 +1763,11 @@ bozexplod
 The
 CEO
 of
-NW	B	NW Energy	orthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
-Energy	I	NW Energy	orthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
+NW	B	NW Energy	NorthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
+Energy	I	NW Energy	NorthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
 is
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 
 -DOCSTART- (1000000001435
 Press
@@ -1778,12 +1778,12 @@ area
 was
 heart
 of
-NW	B	NW Energy	orthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
-Energy	I	NW Energy	orthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
+NW	B	NW Energy	NorthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
+Energy	I	NW Energy	NorthWestern_Corporation	http://en.wikipedia.org/wiki/NorthWestern_Corporation	000	000
 gas
 operations
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 area
 Hard
 area
@@ -1801,7 +1801,7 @@ moving
 story
 from
 a
-Victorian	B	Victorian	ictoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
+Victorian	B	Victorian	Victoria_(Australia)	http://en.wikipedia.org/wiki/Victoria_(Australia)	000	000
 bushfire
 survivor
 http
@@ -1811,7 +1811,7 @@ clvdsb
 
 -DOCSTART- (1000000001488
 stephenfry
-SitePoint	B	SitePoint	itePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
+SitePoint	B	SitePoint	SitePoint	http://en.wikipedia.org/wiki/SitePoint	000	000
 has
 a
 5
@@ -1840,11 +1840,11 @@ Raw
 video
 from
 the
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 fire
 on
-Missoulian	B	Missoulian.com	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-com	I	Missoulian.com	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Missoulian	B	Missoulian.com	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+com	I	Missoulian.com	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 courtesy
 of
 markross
@@ -1858,7 +1858,7 @@ devastating
 day
 here
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 
 -DOCSTART- (1000000001537
 10
@@ -1866,10 +1866,10 @@ Most
 pop
 last
 hr
-Chris	B	Chris Brown	hris_Brown_(American_singer)	http://en.wikipedia.org/wiki/Chris_Brown_(American_singer)	000	000
-Brown	I	Chris Brown	hris_Brown_(American_singer)	http://en.wikipedia.org/wiki/Chris_Brown_(American_singer)	000	000
-Michael	B	Michael Jackson	ichael_Jackson	http://en.wikipedia.org/wiki/Michael_Jackson	000	000
-Jackson	I	Michael Jackson	ichael_Jackson	http://en.wikipedia.org/wiki/Michael_Jackson	000	000
+Chris	B	Chris Brown	Chris_Brown_(American_singer)	http://en.wikipedia.org/wiki/Chris_Brown_(American_singer)	000	000
+Brown	I	Chris Brown	Chris_Brown_(American_singer)	http://en.wikipedia.org/wiki/Chris_Brown_(American_singer)	000	000
+Michael	B	Michael Jackson	Michael_Jackson	http://en.wikipedia.org/wiki/Michael_Jackson	000	000
+Jackson	I	Michael Jackson	Michael_Jackson	http://en.wikipedia.org/wiki/Michael_Jackson	000	000
 prop8arg
 Prop
 8
@@ -1878,8 +1878,8 @@ queryfail
 bozexplod
 Watchmen
 zombietalk
-A	B	A-Rod	lex_Rodriguez	http://en.wikipedia.org/wiki/Alex_Rodriguez	000	000
-Rod	I	A-Rod	lex_Rodriguez	http://en.wikipedia.org/wiki/Alex_Rodriguez	000	000
+A	B	A-Rod	Alex_Rodriguez	http://en.wikipedia.org/wiki/Alex_Rodriguez	000	000
+Rod	I	A-Rod	Alex_Rodriguez	http://en.wikipedia.org/wiki/Alex_Rodriguez	000	000
 
 -DOCSTART- (1000000001559
 webgeekgirl
@@ -1891,19 +1891,19 @@ find
 some
 things
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 Check
 out
-Mystery	B	Mystery Ranch backpacks	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-Ranch	I	Mystery Ranch backpacks	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
-backpacks	I	Mystery Ranch backpacks	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Mystery	B	Mystery Ranch backpacks	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Ranch	I	Mystery Ranch backpacks	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+backpacks	I	Mystery Ranch backpacks	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 made
 in
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 
 -DOCSTART- (1000000001561
 Corporate
-Australia	B	Australia	ustralia	http://en.wikipedia.org/wiki/Australia	000	000
+Australia	B	Australia	Australia	http://en.wikipedia.org/wiki/Australia	000	000
 raises
 millions
 for
@@ -1919,7 +1919,7 @@ DONATE
 
 -DOCSTART- (1000000001579
 Searched
-Twitter	B	Twitter	witter	http://en.wikipedia.org/wiki/Twitter	000	000
+Twitter	B	Twitter	Twitter	http://en.wikipedia.org/wiki/Twitter	000	000
 for
 bozexplod
 http
@@ -1940,16 +1940,16 @@ buldings
 there
 Gov
 of
-MT	B	MT	ontana	http://en.wikipedia.org/wiki/Montana	000	000
+MT	B	MT	Montana	http://en.wikipedia.org/wiki/Montana	000	000
 
 -DOCSTART- (1000000001582
-NewWest	B	NewWest.Net	alton,_Georgia	http://en.wikipedia.org/wiki/Dalton,_Georgia	000	000
-Net	I	NewWest.Net	alton,_Georgia	http://en.wikipedia.org/wiki/Dalton,_Georgia	000	000
+NewWest	B	NewWest.Net	Dalton,_Georgia	http://en.wikipedia.org/wiki/Dalton,_Georgia	000	000
+Net	I	NewWest.Net	Dalton,_Georgia	http://en.wikipedia.org/wiki/Dalton,_Georgia	000	000
 Headlines
 Explosion
 in
 Downtown
-Bozeman	B	Bozeman	ozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
+Bozeman	B	Bozeman	Bozeman,_Montana	http://en.wikipedia.org/wiki/Bozeman,_Montana	000	000
 Destroys
 Businesses
 Two
@@ -1984,6 +1984,6 @@ Appeal
 Always
 amazed
 at
-Aussies	B	Aussies	ussie	http://en.wikipedia.org/wiki/Aussie	000	000
+Aussies	B	Aussies	Aussie	http://en.wikipedia.org/wiki/Aussie	000	000
 mateship
 
