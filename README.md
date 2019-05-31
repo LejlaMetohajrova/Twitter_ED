@@ -84,6 +84,13 @@ brian | 575 | 98 | 95
 mena | 152 | 37 | 39
 total | 2058 | 418 | 421
 
+Concatenate datasets:
+```
+cat brian_train.conll mena_train.conll micro_train.conll > twitter_train.conll
+cat brian_test.conll mena_test.conll micro_test.conll > twitter_test.conll
+cat brian_val.conll mena_val.conll micro_val.conll > twitter_val.conll
+```
+
 Original twitter data come from: \
 [1] Locke, B. and Martin, J. (2009). Named entity recognition: Adapting to microblogging. Senior Thesis, University of Colorado. \
 [2] Habib, M. B. and van Keulen, M. (2012). Unsupervised improvement of named entity extraction in short informal context using disambiguation clues. In Proceedings of the Workshop on Semantic Web and Information Extraction (SWAIE 2012), pages 1–10. \
